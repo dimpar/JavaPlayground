@@ -1,0 +1,3 @@
+Factory Method Pattern - the whole point is that you're using a subclass to do your creation for you. It is used
+to decouple the client code from the concrete classes you need to instantiate or if you don't know ahead of time
+all the concrete classes you're going to need.

@@ -1,0 +1,2 @@
+Singleton Pattern - singleton pattern is pattern that restricts the instantiation of a class to one.
+This is useful when exactly one object is needed to coordinate actions across the system.

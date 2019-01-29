@@ -1,0 +1,3 @@
+Builder Pattern - Method Chaining. Useful when you need to create an object that can take a large number of inputs
+(some of which may be optional).
+

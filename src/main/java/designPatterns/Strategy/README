@@ -1,3 +1,4 @@
 You use this pattern if you need to dynamically change an algorithm used by an object at run time.
+Strategy pattern is used when we have multiple algorithm for a specific task and client decides the actual implementation to be used at runtime.
 
 The pattern also allows you to eliminate code duplication. It separates behavior from super and subclasses.
